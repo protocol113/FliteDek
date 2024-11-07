@@ -14,6 +14,8 @@ export function Hero() {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           filter: 'brightness(0.3)',
+          height: '100vh', // Set the height explicitly
+          width: '100%',   // Full width
         }}
       />
 
