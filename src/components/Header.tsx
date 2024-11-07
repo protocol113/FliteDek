@@ -7,7 +7,7 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <a href="#" className="flex items-center">
-            <img src="/public/img/logowhite.png" alt="Flitedek Logo" className="h-8" />
+            <img src="/img/logowhite.png" alt="Flitedek Logo" className="h-8" />
           </a>
 
           <nav className="hidden md:flex items-center space-x-8">
