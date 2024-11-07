@@ -10,7 +10,7 @@ export function Hero() {
       <div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: src="/img/BGHero.jpeg",
+          backgroundImage: "/img/BGHero.jpeg",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           filter: 'brightness(0.3)',
